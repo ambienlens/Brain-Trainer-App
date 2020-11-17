@@ -1,3 +1,9 @@
+<!-- DEBAYAN MAJUMDER 2020
+This is the main Java Script which contains the heart of the APP
+You will not find any comments here because I was too lazy to commment
+a 350 lines of code after a 50+ Revisions :")
+-->
+
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
